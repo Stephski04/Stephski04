@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying CS at **TH Aschaffenburg**
 
-- 🌱 this is my portfolio of Projects i have worked 
+- 🌱 this is my portfolio of Projects i have worked on  
 
 - ⚡ Fun fact **i play Handball 🤾‍♂️**
 
