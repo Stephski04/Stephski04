@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stephane</h1>
 <h3 align="center">A CS Student from Germany</h3>
 
-- 🔭 I’m currently working on **CICD Pipeline**
+- 🔭 I’m currently studying CS at **TH Aschaffenburg**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 this is my portfolio of Projects i have worked 
 
 - ⚡ Fun fact **i play Handball 🤾‍♂️**
 
